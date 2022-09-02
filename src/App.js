@@ -244,11 +244,14 @@ function App() {
                   <a href="movielist.html" className="list"><i className="ion-ios-list-outline active"></i></a>
                   <a  href="moviegrid.html" className="grid"><i className="ion-grid"></i></a>
                 </div>
+                
 
 
-
-                <Pelicula titulo = "OBlivion" calificacion = "10"/>
-                <Pelicula />
+                <Pelicula titulo="OBlivion 2012" calificacion="9.9" director="Cesar Gonzalez Flores" img="images/uploads/mv1.jpg">
+                  Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the 
+                  mischievous Loki and his alien army from enslaving humanity...
+                  <b>prueba de children</b>
+                </Pelicula>
                 <Pelicula />
 
                 <div className="movie-item-style-2">
