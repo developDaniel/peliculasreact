@@ -253,6 +253,7 @@ function App() {
                   <b>prueba de children</b>
                 </Pelicula>
                 <Pelicula />
+                <Pelicula />
 
                 <div className="movie-item-style-2">
                   <img src="images/uploads/mv2.jpg" alt=""/>
